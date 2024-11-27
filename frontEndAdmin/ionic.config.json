@@ -1,7 +1,0 @@
-{
-  "name": "frontEndAdmin",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
